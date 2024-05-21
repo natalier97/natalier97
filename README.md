@@ -1,7 +1,7 @@
 ## Hey, I'm Natalie 🙂
 
 <div align="center">
-    <img alt='machu picchu' src="https://media.licdn.com/dms/image/C4E16AQGvg2MA7fR2RA/profile-displaybackgroundimage-shrink_350_1400/0/1590081084426?e=1710374400&v=beta&t=2jWX5Hbf62xiQiggvOv4rkXu2pczT1lOltOtpAJp4X0">
+    <img alt='machu picchu' src="https://images.pexels.com/photos/5176713/pexels-photo-5176713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 <d/iv>
 
 🌟 I'm a dedicated Software Engineer && former Registered Nurse. 💻🩺
