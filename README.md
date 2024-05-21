@@ -1,8 +1,5 @@
 ## Hey, I'm Natalie 🙂
-
-<div align="center">
-    <img alt='machu picchu' src="https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-<d/iv>
+   ![machupichu](https://github.com/natalier97/natalier97/assets/154473227/9d0d751e-4195-4aa7-a0c1-797c3ef59054)
 
 🌟 I'm a dedicated Software Engineer && former Registered Nurse 💻🩺
 
