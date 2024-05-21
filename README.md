@@ -4,11 +4,11 @@
     <img alt='machu picchu' src="https://media.licdn.com/dms/image/C4E16AQGvg2MA7fR2RA/profile-displaybackgroundimage-shrink_350_1400/0/1590081084426?e=1710374400&v=beta&t=2jWX5Hbf62xiQiggvOv4rkXu2pczT1lOltOtpAJp4X0">
 <d/iv>
 
-🌟 I'm a dedicated nurse transitioning into the world of software engineering. 🩺💻
+🌟 I'm a dedicated Software Engineer && former Registered Nurse. 💻🩺
+
+👩‍💻 Skills in Python, JavaScript, HTML, CSS, React, Django REST Frameworks, APIs, SQL 
 
 🐊 Proud first-generation graduate from the University of Florida.
-
-👩‍💻 Currently honing my skills in Python, JavaScript, HTML, and CSS - attending Code Platoon
 
 📚 Avid reader and lifelong learner.
 
