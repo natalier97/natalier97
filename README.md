@@ -4,13 +4,13 @@
     <img alt='machu picchu' src="https://images.pexels.com/photos/5176713/pexels-photo-5176713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 <d/iv>
 
-🌟 I'm a dedicated Software Engineer && former Registered Nurse. 💻🩺
+🌟 I'm a dedicated Software Engineer && former Registered Nurse 💻🩺
 
 👩‍💻 Skills in Python, JavaScript, HTML, CSS, React, Django REST Frameworks, APIs, SQL 
 
-🐊 Proud first-generation graduate from the University of Florida.
+🐊 Proud first-generation graduate from the University of Florida
 
-📚 Avid reader and lifelong learner.
+📚 Avid reader and lifelong learner
 
 🐾 Pet lover
 
@@ -18,7 +18,7 @@
 
 🌱 Passionate about blending healthcare knowledge with tech to make a difference!👋
 
-💬 Yes, I'll look at that rash. No, I don't know what it is. 
+💬 Yes, I'll look at that rash. No, I don't know what it is
 
 #
 
